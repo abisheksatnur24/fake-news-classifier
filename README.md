@@ -1,5 +1,4 @@
 # Fake news detector - CS4824-Final-Project
-Project Summary
 In the course of this machine learning project, we examined and implemented three different models to solve the challenge of fake news detection. These models included Decision Trees, Multinomial Naive Bayes, and Convolutional Neural Networks (CNNs). Each of these models brought its own unique approach to the problem and enhanced our understanding of machine learning techniques.
 
 Decision Tree
